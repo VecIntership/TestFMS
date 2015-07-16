@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LearningManagement" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=COCGIA;Initial Catalog=LearningManagement;Integrated Security=True" SettingsObjectName="ProjectTestFMS.Properties.Settings" SettingsPropertyName="LearningManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Teacher" Member="Teachers">
+    <Type Name="Teacher">
+      <Column Name="TeacherId" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Hometown" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TimeStart" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="TimeEnd" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Falcuty" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Fields" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

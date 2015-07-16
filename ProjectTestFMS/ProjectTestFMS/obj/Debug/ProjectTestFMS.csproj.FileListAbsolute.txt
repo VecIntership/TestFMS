@@ -1,0 +1,10 @@
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\bin\Debug\ProjectTestFMS.exe
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\bin\Debug\ProjectTestFMS.pdb
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.csprojResolveAssemblyReference.cache
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.Form1.resources
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.Properties.Resources.resources
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.csproj.GenerateResource.Cache
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.exe.licenses
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.exe
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\obj\Debug\ProjectTestFMS.pdb
+C:\Users\Quyenna\Documents\GitHub\TestFMS\ProjectTestFMS\ProjectTestFMS\bin\Debug\ProjectTestFMS.exe.config

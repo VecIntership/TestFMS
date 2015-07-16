@@ -15,5 +15,10 @@ namespace ProjectTestFMS
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            gridControl.DataSource = new ProjectTestFMS.DataClassesDataContext().Teachers;
+        }
     }
 }
